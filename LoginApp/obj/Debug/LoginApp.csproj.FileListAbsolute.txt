@@ -1,0 +1,12 @@
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\obj\Debug\LoginApp.csprojAssemblyReference.cache
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\obj\Debug\LoginApp.Login.resources
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\obj\Debug\LoginApp.Main.resources
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\obj\Debug\LoginApp.Register.resources
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\mdrag\OneDrive\Pulpit\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
